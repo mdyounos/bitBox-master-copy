@@ -1,0 +1,12 @@
+Line 1: Hello World
+Line 2: Welcome to Python
+Line 3: This is a test file
+Line 4: Reading line by line
+Line 5: Python file handling
+Line 6: Sample text data
+Line 7: Just another line
+Line 8: Learning is fun
+Line 9: Almost there
+Line 10: This is the tenth line
+Line 11: Extra line
+Line 12: More text
